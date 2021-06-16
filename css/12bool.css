@@ -101,7 +101,6 @@
     max-width: calc(100% / 12 * 1);
 }
 
-
 /* OFFSET */
 
 .col-xs-offset-12 {
@@ -248,7 +247,6 @@
         width: calc(100% / 12 * 1);
         max-width: calc(100% / 12 * 1);
     }
-
 
     /* OFFSET */
 
@@ -398,7 +396,6 @@
         max-width: calc(100% / 12 * 1);
     }
 
-
     /* OFFSET */
 
     .col-md-offset-12 {
@@ -546,7 +543,6 @@
         width: calc(100% / 12 * 1);
         max-width: calc(100% / 12 * 1);
     }
-
 
     /* OFFSET */
 
@@ -696,7 +692,6 @@
         max-width: calc(100% / 12 * 1);
     }
 
-
     /* OFFSET */
 
     .col-xl-offset-12 {
@@ -844,7 +839,6 @@
         width: calc(100% / 12 * 1);
         max-width: calc(100% / 12 * 1);
     }
-
 
     /* OFFSET */
 
